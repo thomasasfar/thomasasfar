@@ -31,9 +31,7 @@
 <p align="left">
 <a href="https://github.com/thomasasfar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thomasasfar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomasasfar&layout=compact&langs_count=8&theme=algolia&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomasasfar&layout=compact&count_private=true&langs_count=8&theme=algolia&token=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"/>
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thomasasfar&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
 
