@@ -1,8 +1,8 @@
 # About Me
 - Hi, I'm Thomas! 👋
 - 🔭 I’m currently working on Career Development Center Universitas Andalas
-- 🌱 I’m currently learning Mobile Development
-- 🌱 I’m currently learning Mobile Development
+- 🔭 I'm currently study at Departmen Information System Universitas Andalas
+- 🌱 I’m currently learning Java Spring Boot
 
 ## 🌐 Socials
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-asfar/)
